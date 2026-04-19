@@ -1,0 +1,7 @@
+Working Directory : a. Tạo 3 file: file1, file2, file3
+Staging Area : d. git add file1
+Repository
+c. git commit -m "init project"
+e. git commit -m "add file1"
+f. git commit -m "add file"
+Cau lenh khoi tao (khong thuoc 3 vung tren): b. git init

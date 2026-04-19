@@ -1,0 +1,4 @@
+git init : dùng để khởi tạo Git cho 1 project
+git add <file name> : dùng để chọn file muốn push
+git add .  : dùng để chọn tất cả các file để push
+git commit -m "message" : dùng để đặt tên cho commit
