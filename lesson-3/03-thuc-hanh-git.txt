@@ -1,0 +1,32 @@
+a. Chay lenh: git init
+- Local: 
+- Working directory: 
+- Staging:
+- Respository: 
+
+b. Tao file: file1.txt, file2.txt, oops/file3.txt
+- Local: 
+- Working directory: file1.txt, file2.txt, oops/file3.txt
+- Staging:
+- Respository: 
+
+c. Them file .gitignore, them vao 2 dong:
+    file1.txt
+    oops/
+- Local: .gitignore
+- Working directory: 
+- Staging:
+- Respository: 
+
+d. Chay lenh git add . 
+- Local: 
+- Working directory: 
+- Staging: file1.txt, file2.txt, oops/file3.txt
+- Respository: 
+
+e. Chay lenh: git commit -m"init project"
+- Local: 
+- Working directory: 
+- Staging: 
+- Respository: file1.txt, file2.txt, oops/file3.txt
+

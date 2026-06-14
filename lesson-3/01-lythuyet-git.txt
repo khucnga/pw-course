@@ -1,0 +1,4 @@
+git commit --amend : dung de mo editor sua commit cuoi cung
+git commit --amend -m"<message>" : dung de sua commit cuoi cung truc tiep
+git restore --staged <file> : dung de dua file tu vung Staging ve vung Working Directory
+git reset HEAD~1 : dung de dua 1 commit ve vung Working Directory
